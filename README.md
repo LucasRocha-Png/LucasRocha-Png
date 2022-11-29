@@ -2,16 +2,16 @@
 
 ##### Sou apaixonado por programação e por Python. Atualmente estou me aprofundando em trabalhos com Data e ferramentas relacionadas.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SbbjBr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Meu GitHub Status"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasRocha-png&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Meu GitHub Status"/>
 
 #
 ##### Uso bastante Jupyter Notebook para fazer meus programas, mas de vez enquando faço algum projetinho em .py 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SbbjBr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRocha-png&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 #
 ##### Estou me esforçando cada dia mais para colocar mais commits
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SbbjBr&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRocha-png&theme=tokyonight" alt="mystreak"/>
 
 #
 ### Tecnologias que eu já tenho certo domínio

@@ -5,7 +5,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasRocha-png&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Meu GitHub Status"/>
 
 #
-##### Uso principalmente Python no meu back-end, mas estou amando usar C++ integrado com o Python em busca de performace.
+##### Uso principalmente Python nos meus projetos, mas estou amando usar C++ integrado com o Python em busca de performace.
 ##### Programo também em HTML e CSS para o front-end.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRocha-png&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 

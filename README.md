@@ -1,7 +1,7 @@
 ### Olá! Me chamo Lucas 👋
 
-##### Sou apaixonado por programação e por Python. Gosto bastante de fazer projetos pessoais.
-##### Uso principalmente Python nos meus projetos, mas estou amando usar C++ integrado com o Python em busca de performace.
+##### Sou apaixonado por programação e por Python.
+##### Uso principalmente Python, mas estou amando usar C++.
 ##### Programo também em HTML e CSS para o front-end de alguns projetos.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRocha-png&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
